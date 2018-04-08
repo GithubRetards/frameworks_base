@@ -1,0 +1,827 @@
+date: bad date 2020-11-10 15:38 UTC
+============================================
+ ▄████▄  ▓█████   ██████  ██▓ █    ██  ███▄ ▄███
+▒██▀ ▀█  ▓█   ▀ ▒██    ▒ ▓██▒ ██  ▓██▒▓██▒▀█▀ ██
+▒▓█    ▄ ▒███   ░ ▓██▄   ▒██▒▓██  ▒██░▓██    ▓██
+▒▓▓▄ ▄██▒▒▓█  ▄   ▒   ██▒░██░▓▓█  ░██░▒██    ▒██
+▒ ▓███▀ ░░▒████▒▒██████▒▒░██░▒▒█████▓ ▒██▒   ░██
+░ ░▒ ▒  ░░░ ▒░ ░▒ ▒▓▒ ▒ ░░▓  ░▒▓▒ ▒ ▒ ░ ▒░   ░  
+  ░  ▒    ░ ░  ░░ ░▒  ░ ░ ▒ ░░░▒░ ░ ░ ░  ░      
+░           ░   ░  ░  ░   ▒ ░ ░░░ ░ ░ ░      ░  
+░ ░         ░  ░      ░   ░     ░            ░  
+░                                               
+============================================
+CESIUM_MOD_VERSION=CesiumOS-v3.0-begonia-20201110-1538-BETA
+TARGET_PRODUCT=cesium_begonia
+PLATFORM_VERSION=11
+PLATFORM_VERSION_CODENAME=REL
+BUILD_ID=RP1A.201105.002
+TARGET_BUILD_VARIANT=userdebug
+PLATFORM_SECURITY_PATCH=2020-11-05
+PRODUCT_SOONG_NAMESPACES=vendor/redmi/begonia frameworks/av/camera/cameraserver frameworks/av/services/camera/libcameraservice hardware/qcom-caf/common/fwk-detect
+============================================
+ninja: no work to do.
+[ 20% 1/5] glob frameworks/base/packages/SystemUI/src/**/I*.aidl
+[ 40% 2/5] glob frameworks/base/packages/SystemUI/src/**/*.kt
+[ 60% 3/5] glob frameworks/base/packages/SystemUI/src/**/*.java
+[ 80% 4/5] glob frameworks/base/packages/SystemUI/src/**/*.proto
+$(shell date -u +%M) was changed, regenerating...
+date: bad date 2020-11-10 15:38 UTC
+$(shell date -u +%M) was changed, regenerating...
+[100% 5/5] initializing build system ...
+date: bad date 2020-11-10 15:38 UTC
+[  2% 6/230] including /home/sahil/cesium/out/soong/Android-cesium_begonia.mk ...
+[  3% 7/230] including art/Android.mk ...
+[  3% 8/230] including bionic/Android.mk ...
+[  3% 9/230] including bootable/recovery/Android.mk ...
+[  4% 10/230] including build/make/target/board/Android.mk ...
+[  4% 11/230] including build/make/target/product/gsi/Android.mk ...
+[  5% 12/230] including build/make/target/product/security/Android.mk ...
+[  5% 13/230] including build/make/tools/fs_config/Android.mk ...
+[  6% 14/230] including cts/Android.mk ...
+[  6% 15/230] including dalvik/Android.mk ...
+[  6% 16/230] including developers/samples/android/security/FingerprintDialog/Application/src/main/Android.mk ...
+[  7% 17/230] including development/apps/Development/Android.mk ...
+[  7% 18/230] including development/apps/DumpViewer/Android.mk ...
+[  8% 19/230] including development/build/Android.mk ...
+[  8% 20/230] including development/cmds/monkey/Android.mk ...
+[  9% 21/230] including development/samples/ApiDemos/Android.mk ...
+[  9% 22/230] including development/samples/IntentPlayground/Android.mk ...
+[ 10% 23/230] including development/samples/MultiClientInputMethod/Android.mk ...
+[ 10% 24/230] including development/samples/MultiDisplay/Android.mk ...
+[ 10% 25/230] including development/samples/RenderScript/Android.mk ...
+[ 11% 26/230] including development/samples/ShortcutDemo/Android.mk ...
+[ 11% 27/230] including development/samples/ShortcutSample/Android.mk ...
+[ 12% 28/230] including development/samples/UiAutomator/Android.mk ...
+[ 12% 29/230] including development/testrunner/Android.mk ...
+[ 13% 30/230] including device/generic/goldfish-opengl/Android.mk ...
+[ 13% 31/230] including device/generic/goldfish/Android.mk ...
+[ 13% 32/230] including device/google/vrservices/xr/packages/BluetoothQtiSymlink/Android.mk ...
+[ 14% 33/230] including device/google/vrservices/xr/packages/overlays/SetupWizardOverlayXr/Android.mk ...
+[ 14% 34/230] including device/linaro/dragonboard/Android.mk ...
+[ 15% 35/230] including device/qcom/sepolicy-legacy-um/Android.mk ...
+[ 15% 36/230] including device/redmi/begonia/Android.mk ...
+[ 16% 37/230] including external/ant-wireless/ant_native/Android.mk ...
+[ 16% 38/230] including external/ant-wireless/ant_service/Android.mk ...
+[ 16% 39/230] including external/ant-wireless/antradio-library/Android.mk ...
+[ 17% 40/230] including external/bash/Android.mk ...
+[ 17% 41/230] including external/chromium-trace/Android.mk ...
+[ 18% 42/230] including external/chromium-webview/Android.mk ...
+[ 18% 43/230] including external/clang/Android.mk ...
+[ 19% 44/230] including external/connectivity/cnefeatureconfig/Android.mk ...
+[ 19% 45/230] including external/exoplayer/Android.mk ...
+[ 20% 46/230] including external/flatbuffers/Android.mk ...
+[ 20% 47/230] including external/fmtlib/support/Android.mk ...
+[ 20% 48/230] including external/google-breakpad/Android.mk ...
+[ 21% 49/230] including external/googletest/googletest/Android.mk ...
+[ 21% 50/230] including external/htop/Android.mk ...
+[ 22% 51/230] including external/hyphenation-patterns/Android.mk ...
+[ 22% 52/230] including external/icu/icu4c/Android.mk ...
+[ 23% 53/230] including external/json-c/Android.mk ...
+external/json-c/Android.mk: warning: libjson: LOCAL_COPY_HEADERS is deprecated. See https://android.googlesource.com/platform/build/+/master/Changes.md#copy_headers 
+[ 23% 54/230] including external/libaom/Android.mk ...
+[ 23% 55/230] including external/libncurses/Android.mk ...
+[ 24% 56/230] including external/libnfc-nxp/Android.mk ...
+[ 24% 57/230] including external/libusb/Android.mk ...
+[ 25% 58/230] including external/libvpx/Android.mk ...
+[ 25% 59/230] including external/ltp/Android.mk ...
+[ 26% 60/230] including external/markdown/Android.mk ...
+[ 26% 61/230] including external/mesa3d/Android.mk ...
+[ 26% 62/230] including external/nano/Android.mk ...
+[ 27% 63/230] including external/noto-fonts/emoji-compat/Android.mk ...
+[ 27% 64/230] including external/openssh/Android.mk ...
+[ 28% 65/230] including external/p7zip/Android.mk ...
+[ 28% 66/230] including external/pigz/Android.mk ...
+[ 29% 67/230] including external/proguard/Android.mk ...
+[ 29% 68/230] including external/robolectric-shadows/Android.mk ...
+[ 30% 69/230] including external/rsync/Android.mk ...
+[ 30% 70/230] including external/unrar/Android.mk ...
+[ 30% 71/230] including external/v4l2_codec2/Android.mk ...
+[ 31% 72/230] including external/vim/Android.mk ...
+[ 31% 73/230] including external/vixl/Android.mk ...
+[ 32% 74/230] including external/vogar/Android.mk ...
+[ 32% 75/230] including external/vulkan-validation-layers/Android.mk ...
+[ 33% 76/230] including external/webrtc/Android.mk ...
+[ 33% 77/230] including external/wpa_supplicant_8/Android.mk ...
+[ 33% 78/230] including external/zip/Android.mk ...
+[ 34% 79/230] including frameworks/av/camera/Android.mk ...
+[ 34% 80/230] including frameworks/av/cmds/stagefright/Android.mk ...
+[ 35% 81/230] including frameworks/av/media/audioserver/Android.mk ...
+[ 35% 82/230] including frameworks/av/media/codec2/Android.mk ...
+[ 36% 83/230] including frameworks/av/media/libeffects/visualizer/Android.mk ...
+[ 36% 84/230] including frameworks/av/media/libmedia/xsd/vts/Android.mk ...
+[ 36% 85/230] including frameworks/av/media/libstagefright/xmlparser/vts/Android.mk ...
+[ 37% 86/230] including frameworks/av/services/audiopolicy/manager/Android.mk ...
+[ 37% 87/230] including frameworks/av/services/audiopolicy/service/Android.mk ...
+[ 38% 88/230] including frameworks/av/services/camera/libcameraservice/Android.mk ...
+[ 38% 89/230] including frameworks/base/Android.mk ...
+[ 39% 90/230] including frameworks/native/cmds/flatland/Android.mk ...
+[ 39% 91/230] including frameworks/native/cmds/ip-up-vpn/Android.mk ...
+[ 40% 92/230] including frameworks/opt/car/services/tests/Android.mk ...
+[ 40% 93/230] including frameworks/opt/localepicker/tests/Android.mk ...
+[ 40% 94/230] including frameworks/opt/net/wifi/libwifi_hal/Android.mk ...
+[ 41% 95/230] including frameworks/rs/Android.mk ...
+[ 41% 96/230] including hardware/broadcom/libbt/Android.mk ...
+[ 42% 97/230] including hardware/broadcom/wlan/bcmdhd/Android.mk ...
+[ 42% 98/230] including hardware/custom/interfaces/wifi/1.0-legacy/Android.mk ...
+[ 43% 99/230] including hardware/google/easel/amber/camera/Android.mk ...
+[ 43% 100/230] including hardware/interfaces/compatibility_matrices/Android.mk ...
+[ 43% 101/230] including hardware/interfaces/configstore/1.1/default/Android.mk ...
+[ 44% 102/230] including hardware/interfaces/drm/1.0/default/Android.mk ...
+[ 44% 103/230] including hardware/interfaces/graphics/composer/2.2/default/Android.mk ...
+[ 45% 104/230] including hardware/interfaces/keymaster/3.0/default/Android.mk ...
+[ 45% 105/230] including hardware/interfaces/media/1.0/xml/Android.mk ...
+[ 46% 106/230] including hardware/interfaces/soundtrigger/2.0/default/Android.mk ...
+[ 46% 107/230] including hardware/interfaces/soundtrigger/2.1/default/Android.mk ...
+[ 46% 108/230] including hardware/interfaces/wifi/1.4/default/Android.mk ...
+[ 47% 109/230] including hardware/interfaces/wifi/supplicant/1.1/vts/Android.mk ...
+[ 47% 110/230] including hardware/invensense/Android.mk ...
+[ 48% 111/230] including hardware/knowles/athletico/sound_trigger_hal/Android.mk ...
+[ 48% 112/230] including hardware/libhardware/Android.mk ...
+[ 49% 113/230] including hardware/qcom-caf/apq8084/Android.mk ...
+[ 49% 114/230] including hardware/qcom-caf/bt/Android.mk ...
+[ 50% 115/230] including hardware/qcom-caf/msm8916/Android.mk ...
+[ 50% 116/230] including hardware/qcom-caf/msm8952/Android.mk ...
+[ 50% 117/230] including hardware/qcom-caf/msm8960/Android.mk ...
+[ 51% 118/230] including hardware/qcom-caf/msm8974/Android.mk ...
+[ 51% 119/230] including hardware/qcom-caf/msm8994/Android.mk ...
+[ 52% 120/230] including hardware/qcom-caf/msm8996/Android.mk ...
+[ 52% 121/230] including hardware/qcom-caf/msm8998/Android.mk ...
+[ 53% 122/230] including hardware/qcom-caf/sdm845/Android.mk ...
+[ 53% 123/230] including hardware/qcom-caf/sm8150/Android.mk ...
+[ 53% 124/230] including hardware/qcom-caf/thermal/Android.mk ...
+[ 54% 125/230] including hardware/qcom-caf/vr/Android.mk ...
+[ 54% 126/230] including hardware/qcom-caf/wlan/Android.mk ...
+[ 55% 127/230] including hardware/qcom/Android.mk ...
+[ 55% 128/230] including hardware/ril/libril/Android.mk ...
+[ 56% 129/230] including hardware/ril/reference-ril/Android.mk ...
+[ 56% 130/230] including hardware/ril/rild/Android.mk ...
+[ 56% 131/230] including kernel/xiaomi/mt6785/Android.mk ...
+[ 57% 132/230] including packages/apps/Bluetooth/tests/Android.mk ...
+[ 57% 133/230] including packages/apps/Calendar/Android.mk ...
+[ 58% 134/230] including packages/apps/Camera2/Android.mk ...
+[ 58% 135/230] including packages/apps/Car/libs/car-ui-lib/Android.mk ...
+[ 59% 136/230] including packages/apps/ConfigCenter/Android.mk ...
+[ 59% 137/230] including packages/apps/Dialer/Android.mk ...
+[ 60% 138/230] including packages/apps/Launcher3/Android.mk ...
+[ 60% 139/230] including packages/apps/ManagedProvisioning/Android.mk ...
+[ 60% 140/230] including packages/apps/Messaging/Android.mk ...
+[ 61% 141/230] including packages/apps/SampleLocationAttribution/Android.mk ...
+[ 61% 142/230] including packages/apps/StorageManager/Android.mk ...
+[ 62% 143/230] including packages/apps/TV/common/tests/robotests/Android.mk ...
+[ 62% 144/230] including packages/apps/TV/jni/minijail/Android.mk ...
+[ 63% 145/230] including packages/apps/TV/partner_support/sample_customization/Android.mk ...
+[ 63% 146/230] including packages/apps/TV/tests/Android.mk ...
+[ 63% 147/230] including packages/apps/TV/tuner/tests/robotests/Android.mk ...
+[ 64% 148/230] including packages/apps/TV/tuner/tests/testing/Android.mk ...
+[ 64% 149/230] including packages/apps/ThemePicker/Android.mk ...
+[ 65% 150/230] including packages/apps/TimeZoneData/Android.mk ...
+[ 65% 151/230] including packages/apps/TvSettings/TwoPanelSettingsOverlay/Android.mk ...
+[ 66% 152/230] including packages/apps/WallpaperPicker/Android.mk ...
+[ 66% 153/230] including packages/apps/WallpaperPicker2/Android.mk ...
+[ 66% 154/230] including packages/services/Car/Android.mk ...
+[ 67% 155/230] including packages/services/Mtp/perf_tests/Android.mk ...
+[ 67% 156/230] including packages/services/Mtp/tests/Android.mk ...
+[ 68% 157/230] including pdk/apps/HelloPDK/Android.mk ...
+[ 68% 158/230] including pdk/apps/TestingCamera/Android.mk ...
+[ 69% 159/230] including pdk/apps/TestingCamera2/Android.mk ...
+[ 69% 160/230] including platform_testing/scripts/perf-load-setup/Android.mk ...
+[ 70% 161/230] including platform_testing/scripts/perf-setup/Android.mk ...
+[ 70% 162/230] including platform_testing/scripts/perfetto-setup/Android.mk ...
+[ 70% 163/230] including platform_testing/utils/crashcollector/Android.mk ...
+[ 71% 164/230] including prebuilts/asuite/acloud/linux-x86/Android.mk ...
+[ 71% 165/230] including prebuilts/clang/host/linux-x86/Android.mk ...
+[ 72% 166/230] including prebuilts/ndk/Android.mk ...
+[ 72% 167/230] including prebuilts/runtime/Android.mk ...
+[ 73% 168/230] including prebuilts/sdk/Android.mk ...
+[ 73% 169/230] including system/bt/gd/Android.mk ...
+[ 73% 170/230] including system/chre/Android.mk ...
+[ 74% 171/230] including system/core/fastboot/Android.mk ...
+[ 74% 172/230] including system/core/healthd/Android.mk ...
+[ 75% 173/230] including system/core/init/Android.mk ...
+[ 75% 174/230] including system/core/rootdir/Android.mk ...
+[ 76% 175/230] including system/extras/Android.mk ...
+[ 76% 176/230] including system/iorap/Android.mk ...
+[ 76% 177/230] including system/libfmq/benchmarks/Android.mk ...
+[ 77% 178/230] including system/libfmq/tests/Android.mk ...
+[ 77% 179/230] including system/libhidl/transport/base/1.0/vts/functional/Android.mk ...
+[ 78% 180/230] including system/libhidl/vintfdata/Android.mk ...
+[ 78% 181/230] including system/libvintf/Android.mk ...
+[ 79% 182/230] including system/memory/libmeminfo/vts/Android.mk ...
+[ 79% 183/230] including system/qcom/softap/sdk/Android.mk ...
+[ 80% 184/230] including system/sepolicy/Android.mk ...
+system/sepolicy/Android.mk:89: warning: Be careful when using the SELINUX_IGNORE_NEVERALLOWS flag. It does not work in user builds and using it will not stop you from failing CTS.
+[ 80% 185/230] including system/timezone/Android.mk ...
+[ 80% 186/230] including system/tools/aidl/build/Android.mk ...
+[ 81% 187/230] including system/tools/dtbtool/Android.mk ...
+[ 81% 188/230] including system/tools/hidl/build/Android.mk ...
+[ 82% 189/230] including system/tools/hidl/test/hidl_test/Android.mk ...
+[ 82% 190/230] including system/tools/hidl/test/java_test/Android.mk ...
+[ 83% 191/230] including test/framework/build/Android.mk ...
+[ 83% 192/230] including test/mlts/benchmark/Android.mk ...
+[ 83% 193/230] including test/vti/test_serving/configs/global/Android.mk ...
+[ 84% 194/230] including test/vts-testcase/fuzz/config/neuralnetworks/V1_2/iface_fuzzer/Android.mk ...
+[ 84% 195/230] including test/vts-testcase/hal/neuralnetworks/V1_2/benchmark/java/Android.mk ...
+[ 85% 196/230] including test/vts-testcase/hal/neuralnetworks/V1_3/benchmark/java/Android.mk ...
+[ 85% 197/230] including test/vts-testcase/hal/radio/config/V1_0/target/radio/config/Android.mk ...
+[ 86% 198/230] including test/vts-testcase/hal/radio/config/V1_1/target/radio/config/Android.mk ...
+[ 86% 199/230] including test/vts-testcase/hal/radio/config/V1_2/target/radio/config/Android.mk ...
+[ 86% 200/230] including test/vts-testcase/hal/vts_specs/Android.mk ...
+[ 87% 201/230] including test/vts-testcase/kernel/bow/Android.mk ...
+[ 87% 202/230] including test/vts-testcase/kernel/dynamic_partitions/Android.mk ...
+[ 88% 203/230] including test/vts-testcase/kernel/loop/Android.mk ...
+[ 88% 204/230] including test/vts-testcase/security/poc/target/Android.mk ...
+[ 89% 205/230] including test/vts/compilation_tools/vtsc/test/Android.mk ...
+[ 89% 206/230] including test/vts/specification/Android.mk ...
+[ 90% 207/230] including test/vts/tools/vts-tradefed/etc/Android.mk ...
+[ 90% 208/230] including test/vts/utils/python/archive/Android.mk ...
+[ 90% 209/230] including test/vts/utils/python/coverage/Android.mk ...
+[ 91% 210/230] including tools/loganalysis/Android.mk ...
+[ 91% 211/230] including tools/platform-compat/Android.mk ...
+[ 92% 212/230] including tools/test/connectivity/Android.mk ...
+[ 92% 213/230] including tools/test/graphicsbenchmark/Android.mk ...
+[ 93% 214/230] including tools/tradefederation/contrib/Android.mk ...
+[ 93% 215/230] including tools/tradefederation/core/Android.mk ...
+[ 93% 216/230] including vendor/cesium-prebuilts/Android.mk ...
+[ 94% 217/230] including vendor/cesium/overlay/themes/stub/Android.mk ...
+[ 94% 218/230] including vendor/cesium/packages/Android.mk ...
+[ 95% 219/230] including vendor/cesium/prebuilt/common/Android.mk ...
+[ 95% 220/230] including vendor/codeaurora/telephony/qti-hidl-wrapper/Android.mk ...
+[ 96% 221/230] including vendor/codeaurora/telephony/qti-utils/Android.mk ...
+[ 96% 222/230] including vendor/qcom/opensource/audio/Android.mk ...
+[ 96% 223/230] including vendor/qcom/opensource/data-ipa-cfg-mgr/ipanat/test/Android.mk ...
+[ 97% 224/230] including vendor/qcom/opensource/dataservices/Android.mk ...
+[ 97% 225/230] including vendor/qcom/opensource/libfmjni/Android.mk ...
+[ 98% 226/230] including vendor/qcom/opensource/power/Android.mk ...
+[ 98% 227/230] including vendor/redmi/begonia/Android.mk ...
+[ 99% 228/230] including /home/sahil/cesium/out/soong/late-cesium_begonia.mk ...
+[ 99% 229/230] finishing build rules ...
+[100% 230/230] writing build rules ...
+No need to regenerate ninja file
+Starting ninja...
+[ 79% 231/291] build /home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ/.additional_config
+[ 79% 232/291] Target buildinfo: /home/sahil/cesium/out/target/product/begonia/obj/ETC/system_build_prop_intermediates/build.prop
+Target buildinfo from: device/redmi/begonia/system.prop
+[ 80% 233/291] Target build info: /home/sahil/cesium/out/target/product/begonia/system/build.prop
+[ 80% 234/291] Target buildinfo: /home/sahil/cesium/out/target/product/begonia/system/etc/prop.default
+[ 80% 235/291] Target buildinfo: /home/sahil/cesium/out/target/product/begonia/system/vendor/default.prop
+[ 81% 236/291] Installed file list: /home/sahil/cesium/out/target/product/begonia/installed-files-root.txt
+[ 81% 237/291] Target vendor buildinfo: /home/sahil/cesium/out/target/product/begonia/system/vendor/build.prop
+[ 81% 238/291] Target recovery buildinfo: /home/sahil/cesium/out/target/product/begonia/recovery/root/prop.default
+[ 82% 239/291] build /home/sahil/cesium/out/target/product/begonia/obj/NOTICE_VENDOR.xml
+[ 82% 240/291] build /home/sahil/cesium/out/target/product/begonia/obj/NOTICE_VENDOR.xml.gz
+[ 82% 241/291] build /home/sahil/cesium/out/target/product/begonia/system/vendor/etc/NOTICE.xml.gz
+[ 83% 242/291] ----- Making uncompressed recovery ramdisk ------
+[ 83% 243/291] ----- Making compressed recovery ramdisk ------
+[ 83% 244/291] Building Kernel Config
+make: Entering directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+make[1]: Entering directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+  GEN     ./Makefile
+#
+# configuration written to .config
+#
+make[1]: Leaving directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+make: Leaving directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+make: Entering directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+make[1]: Entering directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+  GEN     ./Makefile
+scripts/kconfig/conf  --savedefconfig=defconfig Kconfig
+make[1]: Leaving directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+make: Leaving directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+[ 84% 245/291] //frameworks/base/services:services dexpreopt [common]
+[ 84% 246/291] Copy: /home/sahil/cesium/out/target/product/begonia/system/framework/oat/arm64/services.art
+[ 84% 247/291] Copy: /home/sahil/cesium/out/target/product/begonia/system/framework/services.jar.bprof
+[ 85% 248/291] Copy: /home/sahil/cesium/out/target/product/begonia/system/framework/oat/arm64/services.vdex
+[ 85% 249/291] Copy: /home/sahil/cesium/out/target/product/begonia/system/framework/services.jar.prof
+[ 85% 250/291] Copy: /home/sahil/cesium/out/target/product/begonia/system/framework/oat/arm64/services.odex
+[ 86% 251/291] //frameworks/opt/net/ethernet:ethernet-service dexpreopt [common]
+[ 86% 252/291] Copy: /home/sahil/cesium/out/target/product/begonia/system/framework/oat/arm64/ethernet-service.odex
+[ 86% 253/291] Copy: /home/sahil/cesium/out/target/product/begonia/system/framework/oat/arm64/ethernet-service.vdex
+[ 87% 254/291] Building Kernel
+make: Entering directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+make[1]: Entering directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+  GEN     ./Makefile
+scripts/kconfig/conf  --silentoldconfig Kconfig
+  CHK     include/config/kernel.release
+  GEN     ./Makefile
+  CHK     include/generated/uapi/linux/version.h
+  CHK     include/generated/utsrelease.h
+rm -f dtboimg.cfg.tmp
+echo /home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ/arch/arm64/boot/dts/mediatek/begonia-mt6785-overlay.dtb >>dtboimg.cfg.tmp; echo " id=0" >>dtboimg.cfg.tmp;  echo /home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ/arch/arm64/boot/dts/mediatek/k85v1_64.dtb >>dtboimg.cfg.tmp; echo " id=1" >>dtboimg.cfg.tmp; 
+if ! cmp -s dtboimg.cfg.tmp dtboimg.cfg; then \
+	mv dtboimg.cfg.tmp dtboimg.cfg; \
+else \
+	rm dtboimg.cfg.tmp; \
+fi
+  Using /home/sahil/cesium/kernel/xiaomi/mt6785 as source for kernel
+  CHK     scripts/mod/devicetable-offsets.h
+  CHK     include/generated/timeconst.h
+  CHK     include/generated/bounds.h
+  CHK     include/generated/asm-offsets.h
+  CALL    /home/sahil/cesium/kernel/xiaomi/mt6785/scripts/checksyscalls.sh
+for i in ./arch/arm64/boot/dts/mediatek/begonia-mt6785-overlay.dtb ./arch/arm64/boot/dts/mediatek/k85v1_64.dtb; do \
+	/home/sahil/cesium/kernel/xiaomi/mt6785/scripts/dtc/ufdt_apply_overlay ./arch/arm64/boot/dts/mediatek/mt6785.dtb $i $i.merge;\
+done
+ufdt_apply_overlay: took 0.000000000 secs
+ufdt_apply_overlay: took 0.000000000 secs
+  CHK     include/generated/compile.h
+  GZIP    kernel/config_data.gz
+  CHK     kernel/config_data.h
+/home/sahil/cesium/kernel/xiaomi/mt6785/drivers/misc/mediatek/ccu/src/Makefile:26: CCU_MAKE_FILE_CALLED
+/home/sahil/cesium/kernel/xiaomi/mt6785
+FDVT: Drv use 5.0 folder
+/home/sahil/cesium/kernel/xiaomi/mt6785
+/home/sahil/cesium/kernel/xiaomi/mt6785
+/home/sahil/cesium/kernel/xiaomi/mt6785
+/home/sahil/cesium/kernel/xiaomi/mt6785
+/home/sahil/cesium/kernel/xiaomi/mt6785
+MTK_GPU_VERSION 1 = mali
+*GPU CONFIG_MTK_FREQ_HOPPING = y
+*GPU MT_GPUFREQ_BRINGUP = 0
+*GPU MT_GPUFREQ_GED_READY = 1
+*GPU MT_GPUFREQ_KICKER_PBM_READY = 1
+*GPU MT_GPUFREQ_STATIC_PWR_READY2USE = 1
+*GPU MT_GPUFREQ_LOW_BATT_VOLT_PROTECT = 1
+*GPU MT_GPUFREQ_BATT_PERCENT_PROTECT = 1
+*GPU MT_GPUFREQ_BATT_OC_PROTECT = 1
+*GPU MT_GPUFREQ_DYNAMIC_POWER_TABLE_UPDATE = 1
+*GPU MT_GPUFREQ_SETTLE_TIME_PROFILE = 0
+imgsensor drv by common ../common/v1_1/s5kgw1sp_mipi_raw/ ../common/v1_1/s5kgw1sunny_mipi_raw/ ../common/v1_1/s5kgw1ofilm_mipi_raw/ ../common/v1_1/s5k3t1sunny_mipi_raw/ ../common/v1_1/s5k3t1ofilm_mipi_raw/ ../common/v1_1/ov02a10af_mipi_raw/ ../common/v1_1/gc2375af_mipi_raw/ ../common/v1_1/gc5035_mipi_raw/ ../common/v1_1/gc2375beta_mipi_raw/ ../common/v1_1/gc2375alpha_mipi_raw/ ../common/v1_1/ov02a10beta_mipi_raw/ ../common/v1_1/ov02a10alpha_mipi_raw/ ../common/v1_1/ov8856sunny_mipi_raw/ ../common/v1_1/ov8856ofilm_mipi_raw/
+imgsensor drv by platform 
+*MTK_GPU_VERSION 2 = bifrost
+************  drivers/trusty/mtee-kree mk ************
+*MTK_GPU_VERSION 3 = r20p0
+mali MTK evironment, building r19p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6785"
+*GPU defined GPU BM QoS 2.0
+mali MTK evironment, building r19p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6785"
+*GPU defined GPU BM QoS 2.0
+mali MTK evironment, building r19p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6785"
+*GPU defined GPU BM QoS 2.0
+"CONFIG_MICROTRUST_TEE_VERSION="300""
+TCORE_UT_TESTS_SUPPORT = n
+TCORE_PROFILING_SUPPORT = n
+TCORE_PROFILING_AUTO_DUMP = n
+TCORE_MEMORY_LEAK_DETECTION_SUPPORT = n
+"CONFIG_MICROTRUST_TEE_SUPPORT=y"
+"CONFIG_MICROTRUST_TZ_DRIVER=y"
+"CONFIG_MICROTRUST_VFS_DRIVER=y"
+"CONFIG_MICROTRUST_FP_DRIVER=y"
+"CONFIG_MICROTRUST_TUI_DRIVER="
+"CONFIG_MICROTRUST_DEBUG="
+"CONFIG_MICROTRUST_TEST_DRIVERS="
+  DTC     arch/arm64/boot/dts/mediatek/mt6785.dtb
+  CAT     arch/arm64/boot/Image.gz-dtb
+make[1]: Leaving directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+make: Leaving directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+Building DTBs
+make: Entering directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+make[1]: Entering directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+  CHK     include/config/kernel.release
+  GEN     ./Makefile
+  CHK     include/generated/uapi/linux/version.h
+  CHK     include/generated/utsrelease.h
+rm -f dtboimg.cfg.tmp
+echo /home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ/arch/arm64/boot/dts/mediatek/begonia-mt6785-overlay.dtb >>dtboimg.cfg.tmp; echo " id=0" >>dtboimg.cfg.tmp;  echo /home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ/arch/arm64/boot/dts/mediatek/k85v1_64.dtb >>dtboimg.cfg.tmp; echo " id=1" >>dtboimg.cfg.tmp; 
+if ! cmp -s dtboimg.cfg.tmp dtboimg.cfg; then \
+	mv dtboimg.cfg.tmp dtboimg.cfg; \
+else \
+	rm dtboimg.cfg.tmp; \
+fi
+  Using /home/sahil/cesium/kernel/xiaomi/mt6785 as source for kernel
+  CHK     scripts/mod/devicetable-offsets.h
+  CHK     include/generated/timeconst.h
+  CHK     include/generated/bounds.h
+  CHK     include/generated/asm-offsets.h
+  CALL    /home/sahil/cesium/kernel/xiaomi/mt6785/scripts/checksyscalls.sh
+for i in ./arch/arm64/boot/dts/mediatek/begonia-mt6785-overlay.dtb ./arch/arm64/boot/dts/mediatek/k85v1_64.dtb; do \
+	/home/sahil/cesium/kernel/xiaomi/mt6785/scripts/dtc/ufdt_apply_overlay ./arch/arm64/boot/dts/mediatek/mt6785.dtb $i $i.merge;\
+done
+ufdt_apply_overlay: took 0.000000000 secs
+ufdt_apply_overlay: took 0.000000000 secs
+make[1]: Leaving directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+make: Leaving directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+Building Kernel Modules
+make: Entering directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+make[1]: Entering directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+  CHK     include/config/kernel.release
+  GEN     ./Makefile
+  CHK     include/generated/uapi/linux/version.h
+  CHK     include/generated/utsrelease.h
+/home/sahil/cesium/kernel/xiaomi/mt6785
+*GPU CONFIG_MTK_FREQ_HOPPING = Y
+*GPU MT_GPUFREQ_BRINGUP = 0
+*GPU MT_GPUFREQ_GED_READY = 1
+*GPU MT_GPUFREQ_KICKER_PBM_READY = 1
+*GPU MT_GPUFREQ_STATIC_PWR_READY2USE = 1
+*GPU MT_GPUFREQ_LOW_BATT_VOLT_PROTECT = 1
+*GPU MT_GPUFREQ_BATT_PERCENT_PROTECT = 1
+*GPU MT_GPUFREQ_BATT_OC_PROTECT = 1
+*GPU MT_GPUFREQ_DYNAMIC_POWER_TABLE_UPDATE = 1
+*GPU MT_GPUFREQ_SETTLE_TIME_PROFILE = 0
+/home/sahil/cesium/kernel/xiaomi/mt6785/drivers/misc/mediatek/ccu/src/Makefile:26: CCU_MAKE_FILE_CALLED
+  Using /home/sahil/cesium/kernel/xiaomi/mt6785 as source for kernel
+/home/sahil/cesium/kernel/xiaomi/mt6785
+FDVT: Drv use 5.0 folder
+/home/sahil/cesium/kernel/xiaomi/mt6785
+/home/sahil/cesium/kernel/xiaomi/mt6785
+/home/sahil/cesium/kernel/xiaomi/mt6785
+/home/sahil/cesium/kernel/xiaomi/mt6785
+MTK_GPU_VERSION 1 = mali
+************  drivers/trusty/mtee-kree mk ************
+*MTK_GPU_VERSION 2 = bifrost
+imgsensor drv by common ../common/v1_1/s5kgw1sp_mipi_raw/ ../common/v1_1/s5kgw1sunny_mipi_raw/ ../common/v1_1/s5kgw1ofilm_mipi_raw/ ../common/v1_1/s5k3t1sunny_mipi_raw/ ../common/v1_1/s5k3t1ofilm_mipi_raw/ ../common/v1_1/ov02a10af_mipi_raw/ ../common/v1_1/gc2375af_mipi_raw/ ../common/v1_1/gc5035_mipi_raw/ ../common/v1_1/gc2375beta_mipi_raw/ ../common/v1_1/gc2375alpha_mipi_raw/ ../common/v1_1/ov02a10beta_mipi_raw/ ../common/v1_1/ov02a10alpha_mipi_raw/ ../common/v1_1/ov8856sunny_mipi_raw/ ../common/v1_1/ov8856ofilm_mipi_raw/
+imgsensor drv by platform 
+*MTK_GPU_VERSION 3 = r20p0
+mali MTK evironment, building r19p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6785"
+*GPU defined GPU BM QoS 2.0
+mali MTK evironment, building r19p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6785"
+*GPU defined GPU BM QoS 2.0
+mali MTK evironment, building r19p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6785"
+*GPU defined GPU BM QoS 2.0
+  CHK     scripts/mod/devicetable-offsets.h
+"CONFIG_MICROTRUST_TEE_VERSION="300""
+TCORE_UT_TESTS_SUPPORT = n
+TCORE_PROFILING_SUPPORT = n
+TCORE_PROFILING_AUTO_DUMP = n
+TCORE_MEMORY_LEAK_DETECTION_SUPPORT = n
+"CONFIG_MICROTRUST_TEE_SUPPORT=y"
+"CONFIG_MICROTRUST_TZ_DRIVER=Y"
+"CONFIG_MICROTRUST_VFS_DRIVER=Y"
+"CONFIG_MICROTRUST_FP_DRIVER=Y"
+"CONFIG_MICROTRUST_TUI_DRIVER="
+"CONFIG_MICROTRUST_DEBUG="
+"CONFIG_MICROTRUST_TEST_DRIVERS="
+  CHK     include/generated/timeconst.h
+  CHK     include/generated/bounds.h
+  CHK     include/generated/asm-offsets.h
+  CALL    /home/sahil/cesium/kernel/xiaomi/mt6785/scripts/checksyscalls.sh
+  CHK     include/generated/compile.h
+  CHK     kernel/config_data.h
+/home/sahil/cesium/kernel/xiaomi/mt6785/drivers/misc/mediatek/ccu/src/Makefile:26: CCU_MAKE_FILE_CALLED
+/home/sahil/cesium/kernel/xiaomi/mt6785
+/home/sahil/cesium/kernel/xiaomi/mt6785
+FDVT: Drv use 5.0 folder
+/home/sahil/cesium/kernel/xiaomi/mt6785
+/home/sahil/cesium/kernel/xiaomi/mt6785
+*GPU CONFIG_MTK_FREQ_HOPPING = y
+*GPU MT_GPUFREQ_BRINGUP = 0
+*GPU MT_GPUFREQ_GED_READY = 1
+*GPU MT_GPUFREQ_KICKER_PBM_READY = 1
+*GPU MT_GPUFREQ_STATIC_PWR_READY2USE = 1
+*GPU MT_GPUFREQ_LOW_BATT_VOLT_PROTECT = 1
+*GPU MT_GPUFREQ_BATT_PERCENT_PROTECT = 1
+*GPU MT_GPUFREQ_BATT_OC_PROTECT = 1
+*GPU MT_GPUFREQ_DYNAMIC_POWER_TABLE_UPDATE = 1
+*GPU MT_GPUFREQ_SETTLE_TIME_PROFILE = 0
+/home/sahil/cesium/kernel/xiaomi/mt6785
+/home/sahil/cesium/kernel/xiaomi/mt6785
+MTK_GPU_VERSION 1 = mali
+imgsensor drv by common ../common/v1_1/s5kgw1sp_mipi_raw/ ../common/v1_1/s5kgw1sunny_mipi_raw/ ../common/v1_1/s5kgw1ofilm_mipi_raw/ ../common/v1_1/s5k3t1sunny_mipi_raw/ ../common/v1_1/s5k3t1ofilm_mipi_raw/ ../common/v1_1/ov02a10af_mipi_raw/ ../common/v1_1/gc2375af_mipi_raw/ ../common/v1_1/gc5035_mipi_raw/ ../common/v1_1/gc2375beta_mipi_raw/ ../common/v1_1/gc2375alpha_mipi_raw/ ../common/v1_1/ov02a10beta_mipi_raw/ ../common/v1_1/ov02a10alpha_mipi_raw/ ../common/v1_1/ov8856sunny_mipi_raw/ ../common/v1_1/ov8856ofilm_mipi_raw/
+imgsensor drv by platform 
+************  drivers/trusty/mtee-kree mk ************
+*MTK_GPU_VERSION 2 = bifrost
+*MTK_GPU_VERSION 3 = r20p0
+mali MTK evironment, building r19p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6785"
+*GPU defined GPU BM QoS 2.0
+mali MTK evironment, building r19p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6785"
+*GPU defined GPU BM QoS 2.0
+mali MTK evironment, building r19p0 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6785"
+*GPU defined GPU BM QoS 2.0
+"CONFIG_MICROTRUST_TEE_VERSION="300""
+"CONFIG_MICROTRUST_TEE_SUPPORT=y"
+"CONFIG_MICROTRUST_TZ_DRIVER=y"
+"CONFIG_MICROTRUST_VFS_DRIVER=y"
+"CONFIG_MICROTRUST_FP_DRIVER=y"
+"CONFIG_MICROTRUST_TUI_DRIVER="
+"CONFIG_MICROTRUST_DEBUG="
+"CONFIG_MICROTRUST_TEST_DRIVERS="
+TCORE_UT_TESTS_SUPPORT = n
+TCORE_PROFILING_SUPPORT = n
+TCORE_PROFILING_AUTO_DUMP = n
+TCORE_MEMORY_LEAK_DETECTION_SUPPORT = n
+  Building modules, stage 2.
+  MODPOST 3 modules
+make[1]: Leaving directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+make: Leaving directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+Installing Kernel Modules
+make: Entering directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+make[1]: Entering directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+  INSTALL net/bridge/br_netfilter.ko
+  INSTALL net/ipv4/tcp_htcp.ko
+  INSTALL net/ipv4/tcp_westwood.ko
+  DEPMOD  4.14.204+
+make[1]: Leaving directory '/home/sahil/cesium/out/target/product/begonia/obj/KERNEL_OBJ'
+make: Leaving directory '/home/sahil/cesium/kernel/xiaomi/mt6785'
+depmod: WARNING: could not open modules.order at /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/depmod_vendor_intermediates/lib/modules/0.0: No such file or directory
+depmod: WARNING: could not open modules.builtin at /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/depmod_vendor_intermediates/lib/modules/0.0: No such file or directory
+[ 87% 255/291] Prebuilt:  (/home/sahil/cesium/out/target/product/begonia/kernel)
+[ 87% 256/291] Target dtbo image from cfg: /home/sahil/cesium/out/target/product/begonia/dtbo-pre.img
+Target signed dtbo image: /home/sahil/cesium/out/target/product/begonia/dtbo-pre.img
+[ 88% 257/291] build /home/sahil/cesium/out/target/product/begonia/dtbo.img
+[ 88% 258/291] Target boot image: /home/sahil/cesium/out/target/product/begonia/boot.img
+[ 89% 259/291] build /home/sahil/cesium/out/target/product/begonia/recovery.img
+[ 89% 260/291] build /home/sahil/cesium/out/target/product/begonia/system/vendor/etc/recovery-resource.dat
+[ 89% 261/291] //frameworks/base/packages/SystemUI:SystemUI-core kapt [common]
+warning: some JAR files in the classpath have the Kotlin Runtime library bundled into them. This may cause difficult to debug problems if there's a different version of the Kotlin Runtime library in the classpath. Consider removing these libraries from the classpath
+out/soong/.intermediates/frameworks/base/packages/SettingsLib/SettingsLib/android_common/turbine-combined/SettingsLib.jar: warning: library has Kotlin runtime bundled into it
+out/soong/.intermediates/prebuilts/tools/common/m2/kotlinx-coroutines-core/android_common/turbine-combined/kotlinx-coroutines-core.jar: warning: library has Kotlin runtime bundled into it
+[ 90% 262/291] //frameworks/base/packages/SystemUI:SystemUI-core kotlinc [common]
+warning: some JAR files in the classpath have the Kotlin Runtime library bundled into them. This may cause difficult to debug problems if there's a different version of the Kotlin Runtime library in the classpath. Consider removing these libraries from the classpath
+out/soong/.intermediates/frameworks/base/packages/SettingsLib/SettingsLib/android_common/turbine-combined/SettingsLib.jar: warning: library has Kotlin runtime bundled into it
+out/soong/.intermediates/prebuilts/tools/common/m2/kotlinx-coroutines-core/android_common/turbine-combined/kotlinx-coroutines-core.jar: warning: library has Kotlin runtime bundled into it
+frameworks/base/packages/SystemUI/src/com/android/systemui/controls/management/ControlsEditingActivity.kt:140:13: warning: variable 'rootView' is never used
+        val rootView = requireViewById<ViewGroup>(R.id.controls_management_root)
+            ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/controls/management/FavoritesModel.kt:221:35: warning: 'getter for adapterPosition: Int' is deprecated. Deprecated in Java
+            onMoveItem(viewHolder.adapterPosition, target.adapterPosition)
+                                  ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/controls/management/FavoritesModel.kt:221:59: warning: 'getter for adapterPosition: Int' is deprecated. Deprecated in Java
+            onMoveItem(viewHolder.adapterPosition, target.adapterPosition)
+                                                          ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/controls/management/FavoritesModel.kt:229:28: warning: 'getter for adapterPosition: Int' is deprecated. Deprecated in Java
+            if (viewHolder.adapterPosition < dividerPosition) {
+                           ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/controls/management/FavoritesModel.kt:241:27: warning: 'getter for adapterPosition: Int' is deprecated. Deprecated in Java
+            return target.adapterPosition < dividerPosition
+                          ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/controls/ui/ControlViewHolder.kt:243:72: warning: unnecessary non-null assertion (!!) on a non-null receiver of type Behavior
+        val behavior = if (existingBehavior == null || existingBehavior!!::class != clazz) {
+                                                                       ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/controls/ui/ControlsUiControllerImpl.kt:196:33: warning: parameter 'items' is never used
+    private fun showSeedingView(items: List<SelectionItem>) {
+                                ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaCarouselController.kt:240:17: warning: name shadowed: oldData
+            val oldData = mediaPlayers.remove(oldKey)
+                ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaDataCombineLatest.kt:37:25: warning: variable 's' is never used
+                    val s = entries[oldKey]?.second
+                        ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaDataCombineLatest.kt:65:14: warning: destructured parameter 'key' is never used
+            (key, pair) -> pair.first != null && pair.second != null
+             ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaDataCombineLatest.kt:67:14: warning: destructured parameter 'key' is never used
+            (key, pair) -> pair.first!!.copy(device = pair.second)
+             ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaDataFilter.kt:93:37: warning: parameter 'id' is never used
+    internal fun handleUserSwitched(id: Int) {
+                                    ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaDataManager.kt:463:26: warning: parameter 'info' is never used, could be renamed to _
+                decoder, info, source -> decoder.isMutableRequired = true
+                         ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaDataManager.kt:463:32: warning: name shadowed: source
+                decoder, info, source -> decoder.isMutableRequired = true
+                               ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaDataManager.kt:463:32: warning: parameter 'source' is never used, could be renamed to _
+                decoder, info, source -> decoder.isMutableRequired = true
+                               ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaDataManager.kt:527:30: warning: unnecessary safe call on a non-null receiver of type MediaData?
+            val pkg = removed?.packageName
+                             ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaDeviceManager.kt:69:35: warning: unnecessary safe call on a non-null receiver of type MediaDeviceManager.Token?
+        if (entry == null || entry?.token != data.token) {
+                                  ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaDeviceManager.kt:142:18: warning: parameter 'fd' is never used
+        fun dump(fd: FileDescriptor, pw: PrintWriter, args: Array<String>) {
+                 ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaDeviceManager.kt:142:55: warning: parameter 'args' is never used
+        fun dump(fd: FileDescriptor, pw: PrintWriter, args: Array<String>) {
+                                                      ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/media/MediaResumeListener.kt:169:57: warning: unnecessary non-null assertion (!!) on a non-null receiver of type List<ResolveInfo!>
+                        tryUpdateResumptionList(key, inf!!.get(0).componentInfo.componentName)
+                                                        ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/notification/collection/NotifViewManager.kt:200:14: warning: parameter 'fd' is never used
+    fun dump(fd: FileDescriptor, pw: PrintWriter, args: Array<String>) {
+             ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/notification/collection/NotifViewManager.kt:200:34: warning: parameter 'pw' is never used
+    fun dump(fd: FileDescriptor, pw: PrintWriter, args: Array<String>) {
+                                 ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/notification/collection/NotifViewManager.kt:200:51: warning: parameter 'args' is never used
+    fun dump(fd: FileDescriptor, pw: PrintWriter, args: Array<String>) {
+                                                  ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/notification/collection/notifcollection/NotifEvent.kt:95:18: warning: 'onRankingUpdate(NotificationListenerService.RankingMap!): Unit' is deprecated. Deprecated in Java
+        listener.onRankingUpdate(rankingMap)
+                 ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/notification/people/PeopleNotificationIdentifier.kt:73:31: warning: name shadowed: type
+                    when (val type = upperBound(type, extractPersonTypeInfo(sbn))) {
+                              ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/notification/row/PriorityOnboardingDialogController.kt:89:44: warning: unnecessary safe call on a non-null receiver of type NotificationConversationInfo.OnConversationSettingsClickListener
+        onConversationSettingsClickListener?.onClick()
+                                           ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/notification/row/PriorityOnboardingDialogController.kt:176:22: warning: 'getColor(Int): Int' is deprecated. Deprecated in Java
+                    .getColor(com.android.internal.R.color.conversation_important_highlight)
+                     ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/notification/row/PriorityOnboardingDialogController.kt:184:17: warning: variable 'largeSize' is never used
+            val largeSize = baseSize + largeThickness * 2
+                ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/notification/stack/ForegroundServiceSectionController.kt:74:9: warning: parameter 'key' is never used
+        key: String,
+        ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/notification/stack/ForegroundServiceSectionController.kt:81:13: warning: variable 'isAppCancel' is never used
+        val isAppCancel = reason == REASON_APP_CANCEL || reason == REASON_APP_CANCEL_ALL
+            ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/statusbar/notification/stack/NotificationSectionsManager.kt:139:75: warning: unchecked cast: View! to T
+        val inflated = layoutInflater.inflate(layoutResId, parent, false) as T
+                                                                          ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/util/RelativeTouchListener.kt:93:27: warning: 'constructor Handler()' is deprecated. Deprecated in Java
+    private val handler = Handler()
+                          ^
+frameworks/base/packages/SystemUI/src/com/android/systemui/util/magnetictarget/MagnetizedObject.kt:465:22: warning: 'vibrate(Long): Unit' is deprecated. Deprecated in Java
+            vibrator.vibrate(effect.toLong())
+                     ^
+[ 90% 263/291] //frameworks/base/packages/SystemUI:SystemUI-core javac [common]
+[ 90% 264/291] //frameworks/base/packages/SystemUI:SystemUI-core for javac [common]
+[ 91% 265/291] //frameworks/base/packages/SystemUI:SystemUI javac [common]
+[ 91% 266/291] //frameworks/base/packages/SystemUI:SystemUI for javac [common]
+[ 91% 267/291] Copy: /home/sahil/cesium/out/target/common/obj/APPS/SystemUI_intermediates/classes.jar
+[ 92% 268/291] //frameworks/base/packages/SystemUI:SystemUI r8 [common]
+Invalid descriptor (deserialized from Kotlin @Metadata): (LLandroid/animation/Animator;;)L;
+Invalid descriptor (deserialized from Kotlin @Metadata): (LLandroid/animation/Animator;;)L;
+[ 92% 269/291] Copy: /home/sahil/cesium/out/target/common/obj/APPS/SystemUI_intermediates/proguard_dictionary
+[ 92% 270/291] //frameworks/base/packages/SystemUI:SystemUI align [common]
+[ 93% 271/291] /home/sahil/cesium/out/soong/host/linux-x86/bin/merge_zips /home/sahil/cesium/out/soong/.intermediates/frameworks/base/packages/SystemUI/SystemUI/android_common/SystemUI-unsigned.apk /home/sahil/cesium/out/soong/.intermediates/frameworks/base/packages/SystemUI/SystemUI/android_common/aligned/SystemUI.jar /home/sahil/cesium/out/soong/.intermediates/frameworks/base/packages/SystemUI/SystemUI/android_common/package-res.apk
+[ 93% 272/291] //frameworks/base/packages/SystemUI:SystemUI signapk [common]
+[ 93% 273/291] Copy: /home/sahil/cesium/out/target/product/begonia/obj/APPS/SystemUI_intermediates/package.apk
+[ 94% 274/291] Install: /home/sahil/cesium/out/target/product/begonia/system/system_ext/priv-app/SystemUI/SystemUI.apk
+[ 94% 275/291] //frameworks/base/packages/SystemUI:SystemUI dexpreopt [common]
+[ 94% 276/291] Copy: /home/sahil/cesium/out/target/product/begonia/system/system_ext/priv-app/SystemUI/oat/arm64/SystemUI.vdex
+[ 95% 277/291] Copy: /home/sahil/cesium/out/target/product/begonia/system/system_ext/priv-app/SystemUI/oat/arm64/SystemUI.odex
+[ 95% 278/291] build /home/sahil/cesium/out/target/product/begonia/obj/NOTICE_SYSTEM_EXT.xml
+[ 95% 279/291] build /home/sahil/cesium/out/target/product/begonia/obj/NOTICE_SYSTEM_EXT.xml.gz
+[ 96% 280/291] build /home/sahil/cesium/out/target/product/begonia/system/system_ext/etc/NOTICE.xml.gz
+[ 96% 281/291] build /home/sahil/cesium/out/target/product/begonia/obj/NOTICE.xml
+[ 96% 282/291] build /home/sahil/cesium/out/target/product/begonia/obj/NOTICE.xml.gz
+[ 97% 283/291] build /home/sahil/cesium/out/target/product/begonia/system/etc/NOTICE.xml.gz
+[ 97% 284/291] Installed file list: /home/sahil/cesium/out/target/product/begonia/installed-files.txt
+[ 97% 285/291] Target system fs image: /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/systemimage_intermediates/system.img
+[ 98% 286/291] Install system fs image: /home/sahil/cesium/out/target/product/begonia/system.img
+[ 98% 287/291] Target vbmeta image: /home/sahil/cesium/out/target/product/begonia/vbmeta.img
+[ 98% 288/291] Package target files: /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil.zip
+2020-11-10 16:43:41 - common.py - WARNING : Failed to read SYSTEM/etc/build.prop
+2020-11-10 16:43:41 - common.py - WARNING : Failed to read VENDOR/etc/build.prop
+2020-11-10 16:43:41 - common.py - WARNING : Failed to read VENDOR/build.prop
+2020-11-10 16:43:41 - common.py - WARNING : Failed to read PRODUCT/etc/build.prop
+2020-11-10 16:43:41 - common.py - WARNING : Failed to read PRODUCT/build.prop
+2020-11-10 16:43:41 - common.py - WARNING : Failed to read SYSTEM_EXT/etc/build.prop
+2020-11-10 16:43:41 - common.py - WARNING : Failed to read SYSTEM_EXT/build.prop
+2020-11-10 16:43:41 - common.py - WARNING : Failed to read ODM/etc/build.prop
+2020-11-10 16:43:41 - common.py - WARNING : Failed to read ODM/build.prop
+2020-11-10 16:44:16 - common.py - WARNING : Failed to read SYSTEM/etc/build.prop
+2020-11-10 16:44:16 - common.py - WARNING : Failed to read VENDOR/etc/build.prop
+2020-11-10 16:44:16 - common.py - WARNING : Failed to read VENDOR/build.prop
+2020-11-10 16:44:16 - common.py - WARNING : Failed to read PRODUCT/etc/build.prop
+2020-11-10 16:44:16 - common.py - WARNING : Failed to read PRODUCT/build.prop
+2020-11-10 16:44:16 - common.py - WARNING : Failed to read SYSTEM_EXT/etc/build.prop
+2020-11-10 16:44:16 - common.py - WARNING : Failed to read SYSTEM_EXT/build.prop
+2020-11-10 16:44:16 - common.py - WARNING : Failed to read ODM/etc/build.prop
+2020-11-10 16:44:16 - common.py - WARNING : Failed to read ODM/build.prop
+2020-11-10 16:44:16 - add_img_to_target_files.py - INFO    : 
+
+++++ boot  ++++
+
+
+2020-11-10 16:44:16 - common.py - INFO    : building image from target_files BOOT...
+2020-11-10 16:44:16 - common.py - INFO    :   Running: "mkbootfs -f /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/META/boot_filesystem_config.txt /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/BOOT/RAMDISK"
+2020-11-10 16:44:16 - common.py - INFO    :   Running: "minigzip"
+2020-11-10 16:44:16 - common.py - INFO    :   Running: "/home/sahil/cesium/out/host/linux-x86/bin/mkbootimg --kernel /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/BOOT/kernel --cmdline bootopt=64S3,32N2,64N2 androidboot.selinux=permissive buildvariant=userdebug --base 0x40078000 --pagesize 2048 --tags_offset 0x0bc08000 --ramdisk_offset 0x07c08000 --ramdisk_offset 0x07c08000 --tags_offset 0x0bc08000 --header_version 1 --os_version 11 --os_patch_level 2020-11-05 --ramdisk /home/sahil/cesium/out/soong/.temp/tmpf_qcpy --output /home/sahil/cesium/out/soong/.temp/tmpoxbajl"
+2020-11-10 16:44:16 - common.py - INFO    : 
+2020-11-10 16:44:16 - common.py - INFO    :   Running: "avbtool add_hash_footer --image /home/sahil/cesium/out/soong/.temp/tmpoxbajl --partition_size 67108864 --partition_name boot --prop com.android.build.boot.fingerprint:google/sunfish/sunfish:11/RP1A.201105.002/6869500:user/release-keys --prop com.android.build.boot.os_version:11"
+2020-11-10 16:44:16 - common.py - INFO    : 
+2020-11-10 16:44:16 - add_img_to_target_files.py - INFO    : 
+
+++++ recovery  ++++
+
+
+2020-11-10 16:44:16 - common.py - INFO    : building image from target_files RECOVERY...
+2020-11-10 16:44:16 - common.py - INFO    :   Running: "mkbootfs -f /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/META/recovery_filesystem_config.txt /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/RECOVERY/RAMDISK"
+2020-11-10 16:44:16 - common.py - INFO    :   Running: "minigzip"
+2020-11-10 16:44:17 - common.py - INFO    :   Running: "/home/sahil/cesium/out/host/linux-x86/bin/mkbootimg --kernel /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/RECOVERY/kernel --cmdline bootopt=64S3,32N2,64N2 androidboot.selinux=permissive buildvariant=userdebug --base 0x40078000 --pagesize 2048 --tags_offset 0x0bc08000 --ramdisk_offset 0x07c08000 --ramdisk_offset 0x07c08000 --tags_offset 0x0bc08000 --header_version 1 --os_version 11 --os_patch_level 2020-11-05 --ramdisk /home/sahil/cesium/out/soong/.temp/tmpcfachE --output /home/sahil/cesium/out/soong/.temp/tmpc1lCly"
+2020-11-10 16:44:18 - common.py - INFO    : 
+2020-11-10 16:44:18 - common.py - INFO    :   Running: "avbtool add_hash_footer --image /home/sahil/cesium/out/soong/.temp/tmpc1lCly --partition_size 67108864 --partition_name recovery --key external/avb/test/data/testkey_rsa2048.pem --algorithm SHA256_RSA2048 --prop com.android.build.recovery.fingerprint:google/sunfish/sunfish:11/RP1A.201105.002/6869500:user/release-keys --rollback_index 1"
+2020-11-10 16:44:18 - common.py - INFO    : 
+2020-11-10 16:44:18 - add_img_to_target_files.py - INFO    : 
+
+++++ recovery (two-step image)  ++++
+
+
+2020-11-10 16:44:18 - common.py - INFO    : building image from target_files RECOVERY...
+2020-11-10 16:44:18 - common.py - INFO    :   Running: "mkbootfs -f /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/META/recovery_filesystem_config.txt /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/RECOVERY/RAMDISK"
+2020-11-10 16:44:18 - common.py - INFO    :   Running: "minigzip"
+2020-11-10 16:44:19 - common.py - INFO    :   Running: "/home/sahil/cesium/out/host/linux-x86/bin/mkbootimg --kernel /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/RECOVERY/kernel --cmdline bootopt=64S3,32N2,64N2 androidboot.selinux=permissive buildvariant=userdebug --base 0x40078000 --pagesize 2048 --tags_offset 0x0bc08000 --ramdisk_offset 0x07c08000 --ramdisk_offset 0x07c08000 --tags_offset 0x0bc08000 --header_version 1 --os_version 11 --os_patch_level 2020-11-05 --ramdisk /home/sahil/cesium/out/soong/.temp/tmphwc4j8 --output /home/sahil/cesium/out/soong/.temp/tmpKu5sUD"
+2020-11-10 16:44:20 - common.py - INFO    : 
+2020-11-10 16:44:20 - common.py - INFO    :   Running: "avbtool add_hash_footer --image /home/sahil/cesium/out/soong/.temp/tmpKu5sUD --partition_size 67108864 --partition_name recovery --key external/avb/test/data/testkey_rsa2048.pem --algorithm SHA256_RSA2048 --prop com.android.build.recovery.fingerprint:google/sunfish/sunfish:11/RP1A.201105.002/6869500:user/release-keys --rollback_index 1"
+2020-11-10 16:44:20 - common.py - INFO    : 
+2020-11-10 16:44:20 - add_img_to_target_files.py - INFO    : 
+
+++++ system  ++++
+
+
+2020-11-10 16:44:20 - add_img_to_target_files.py - INFO    : creating system.img...
+2020-11-10 16:44:22 - common.py - INFO    :   Running: "avbtool add_hashtree_footer --partition_size 3758096384 --calc_max_image_size --prop com.android.build.system.fingerprint:google/sunfish/sunfish:11/RP1A.201105.002/6869500:user/release-keys --prop com.android.build.system.os_version:11 --prop com.android.build.system.security_patch:2020-11-05"
+2020-11-10 16:44:22 - common.py - INFO    :   Running: "mkuserimg_mke2fs -s /home/sahil/cesium/out/soong/.temp/tmpnap2OB /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/system.img ext4 / 3698716672 -j 0 -T 1230768000 -C /home/sahil/cesium/out/soong/.temp/merged_fs_configcupmDz.txt -B /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/system.map -L / -M 0 -U 7314fd73-9ee5-5d98-afbd-b5217f649265 -S 911d3bca-8310-5ea3-aa6d-79403ec62e67 --inode_size 256 /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/META/file_contexts.bin"
+2020-11-10 16:44:31 - common.py - INFO    : 16:44:22 mkuserimg_mke2fs.py INFO: Env: {'E2FSPROGS_FAKE_TIME': '1230768000', 'MKE2FS_CONFIG': '/home/sahil/cesium/out/soong/.temp/tmpckk_OD'}
+16:44:22 mkuserimg_mke2fs.py INFO: Running: mke2fs -O ^has_journal -L / -I 256 -M / -m 0 -U 7314fd73-9ee5-5d98-afbd-b5217f649265 -E android_sparse,hash_seed=911d3bca-8310-5ea3-aa6d-79403ec62e67 -t ext4 -b 4096 /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/system.img 903007
+16:44:22 mkuserimg_mke2fs.py INFO: Env: {'E2FSPROGS_FAKE_TIME': '1230768000'}
+16:44:22 mkuserimg_mke2fs.py INFO: Running: e2fsdroid -T 1230768000 -C /home/sahil/cesium/out/soong/.temp/merged_fs_configcupmDz.txt -B /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/system.map -S /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/META/file_contexts.bin -f /home/sahil/cesium/out/soong/.temp/tmpnap2OB -a / /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/system.img
+mke2fs 1.45.4 (23-Sep-2019)
+Creating filesystem with 903007 4k blocks and 225792 inodes
+Filesystem UUID: 7314fd73-9ee5-5d98-afbd-b5217f649265
+Superblock backups stored on blocks: 
+	32768, 98304, 163840, 229376, 294912, 819200, 884736
+
+Allocating group tables:  0/28     done                            
+Writing inode tables:  0/28     done                            
+Writing superblocks and filesystem accounting information:  0/28     done
+
+
+loaded 5334 fs_config entries
+Created filesystem with 5343/225792 inodes and 384929/903007 blocks
+2020-11-10 16:44:31 - common.py - INFO    :   Running: "avbtool add_hashtree_footer --partition_size 3758096384 --partition_name system --image /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/system.img --salt 427368daf59c0b86eb3c11109944e74534adc5f3a770ed832429acd129c0ed5a --prop com.android.build.system.fingerprint:google/sunfish/sunfish:11/RP1A.201105.002/6869500:user/release-keys --prop com.android.build.system.os_version:11 --prop com.android.build.system.security_patch:2020-11-05"
+2020-11-10 16:44:57 - add_img_to_target_files.py - INFO    : 
+
+++++ userdata  ++++
+
+
+2020-11-10 16:44:57 - add_img_to_target_files.py - INFO    : creating userdata.img...
+2020-11-10 16:44:57 - common.py - INFO    :   Running: "mkuserimg_mke2fs -s /home/sahil/cesium/out/soong/.temp/tmpcZOHV9 /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/userdata.img ext4 data 120116445184 -T 1230768000 -L data --inode_size 256 /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/META/file_contexts.bin"
+2020-11-10 16:44:58 - common.py - INFO    : 16:44:58 mkuserimg_mke2fs.py INFO: Env: {'E2FSPROGS_FAKE_TIME': '1230768000', 'MKE2FS_CONFIG': '/home/sahil/cesium/out/soong/.temp/tmpQ8F4OH'}
+16:44:58 mkuserimg_mke2fs.py INFO: Running: mke2fs -L data -I 256 -M /data -E android_sparse -t ext4 -b 4096 /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/userdata.img 29325304
+16:44:58 mkuserimg_mke2fs.py INFO: Env: {'E2FSPROGS_FAKE_TIME': '1230768000'}
+16:44:58 mkuserimg_mke2fs.py INFO: Running: e2fsdroid -T 1230768000 -S /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/META/file_contexts.bin -f /home/sahil/cesium/out/soong/.temp/tmpcZOHV9 -a /data /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/userdata.img
+mke2fs 1.45.4 (23-Sep-2019)
+Creating filesystem with 29325304 4k blocks and 7331840 inodes
+Filesystem UUID: afe70613-7801-4d5c-b6ab-b2d98ab4b62d
+Superblock backups stored on blocks: 
+	32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208, 
+	4096000, 7962624, 11239424, 20480000, 23887872
+
+Allocating group tables:   0/895       done                            
+Writing inode tables:   0/895       done                            
+Creating journal (131072 blocks): done
+Writing superblocks and filesystem accounting information:   0/895       done
+
+
+Created filesystem with 11/7331840 inodes and 591228/29325304 blocks
+2020-11-10 16:44:58 - common.py - INFO    :   userdata size (144) is 0.00% of limit (120116445184)
+2020-11-10 16:44:58 - add_img_to_target_files.py - INFO    : 
+
+++++ cache  ++++
+
+
+2020-11-10 16:44:58 - add_img_to_target_files.py - INFO    : creating cache.img...
+2020-11-10 16:44:58 - common.py - INFO    :   Running: "mkuserimg_mke2fs -s /home/sahil/cesium/out/soong/.temp/tmpFWaOed /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/cache.img ext4 cache 452984832 -T 1230768000 -L cache --inode_size 256 /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/META/file_contexts.bin"
+2020-11-10 16:44:58 - common.py - INFO    : 16:44:58 mkuserimg_mke2fs.py INFO: Env: {'E2FSPROGS_FAKE_TIME': '1230768000', 'MKE2FS_CONFIG': '/home/sahil/cesium/out/soong/.temp/tmpuvVcYf'}
+16:44:58 mkuserimg_mke2fs.py INFO: Running: mke2fs -L cache -I 256 -M /cache -E android_sparse -t ext4 -b 4096 /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/cache.img 110592
+16:44:58 mkuserimg_mke2fs.py INFO: Env: {'E2FSPROGS_FAKE_TIME': '1230768000'}
+16:44:58 mkuserimg_mke2fs.py INFO: Running: e2fsdroid -T 1230768000 -S /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/META/file_contexts.bin -f /home/sahil/cesium/out/soong/.temp/tmpFWaOed -a /cache /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/cache.img
+mke2fs 1.45.4 (23-Sep-2019)
+Creating filesystem with 110592 4k blocks and 110592 inodes
+Filesystem UUID: 5e6b5f89-48d6-4430-9c41-f3e2aa01f38a
+Superblock backups stored on blocks: 
+	32768, 98304
+
+Allocating group tables: 0/4   done                            
+Writing inode tables: 0/4   done                            
+Creating journal (4096 blocks): done
+Writing superblocks and filesystem accounting information: 0/4   done
+
+
+Created filesystem with 11/110592 inodes and 11027/110592 blocks
+2020-11-10 16:44:58 - common.py - INFO    :   cache size (141) is 0.00% of limit (452984832)
+2020-11-10 16:44:58 - add_img_to_target_files.py - INFO    : 
+
+++++ dtbo  ++++
+
+
+2020-11-10 16:44:58 - common.py - INFO    :   Running: "avbtool add_hash_footer --image /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/dtbo.img --partition_size 33554432 --partition_name dtbo --prop com.android.build.dtbo.fingerprint:google/sunfish/sunfish:11/RP1A.201105.002/6869500:user/release-keys"
+2020-11-10 16:44:58 - common.py - INFO    : 
+2020-11-10 16:44:58 - add_img_to_target_files.py - INFO    : 
+
+++++ vbmeta  ++++
+
+
+2020-11-10 16:44:58 - common.py - INFO    :   Running: "avbtool make_vbmeta_image --output /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/vbmeta.img --key external/avb/test/data/testkey_rsa4096.pem --algorithm SHA256_RSA4096 --include_descriptors_from_image /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/dtbo.img --include_descriptors_from_image /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/boot.img --include_descriptors_from_image /home/sahil/cesium/out/target/product/begonia/obj/PACKAGING/target_files_intermediates/cesium_begonia-target_files-eng.sahil/IMAGES/system.img --set_hashtree_disabled_flag --flags 2 --padding_size 4096"
+2020-11-10 16:44:58 - common.py - INFO    : 
+2020-11-10 16:44:59 - add_img_to_target_files.py - INFO    : 
+
+++++ radio  ++++
+
+
+2020-11-10 16:44:59 - add_img_to_target_files.py - INFO    : done.
